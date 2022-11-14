@@ -2,7 +2,7 @@
 - 👀 I’m interested in all kinds of programming
 - 🌱 I’m currently learning Python and Java
 - 💞️ I’m looking to collaborate on any kinds of open projects
-- 📫 How to reach me: chenyerong1983@hotmail.com
+- 📫 How to reach me: fionayuyu83@gmail.com
 
 <!---
 Fiona83/Fiona83 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
